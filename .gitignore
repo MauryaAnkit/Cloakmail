@@ -35,3 +35,6 @@ temp
 *.tmp
 
 *.tsbuildinfo
+
+issues/
+Code Review Results.md
